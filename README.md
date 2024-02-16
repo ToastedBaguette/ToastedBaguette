@@ -4,6 +4,9 @@ Hi 👋 My name is Rony Hartono Irawan
 Front End Web | Mobile Developer
 --------------------------------
 
+![](https://visitor-badge.laobi.icu/badge?page_id=toastedbaguette.ToastedBaguette&icon=5)
+[![Github](https://img.shields.io/github/followers/ToastedBaguette?label=Follow&style=social)](https://github.com/ToastedBaguette)
+
 An independent Software Engineer who is passionate in Front End Web and Mobile Development
 
 * 🌍  I'm based in Indonesia
