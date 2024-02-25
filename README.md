@@ -11,7 +11,7 @@ An independent Software Engineer who is passionate in Front End Web and Mobile D
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [ronyhartonoirawan@gmail.com](mailto:ronyhartonoirawan@gmail.com)
-* 🧠  I'm learning Flutter and React
+* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Website/Mobile App Projects
 * ⚡  I also like to talk about life-skills & philosophy
 
