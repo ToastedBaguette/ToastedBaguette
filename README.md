@@ -14,6 +14,7 @@ An independent Software Engineer who is passionate in Front End Web and Mobile D
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Website/Mobile App Projects
 * ⚡  I also like to talk about life-skills & financial investment
+* ⬛  Github second account : https://github.com/ronyhartonoirawan
 
 ### Skills
 
