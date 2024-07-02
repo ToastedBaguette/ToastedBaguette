@@ -32,6 +32,4 @@ An independent Software Engineer who is passionate in Front End Web and Mobile D
 
 ### My GitHub Trophies
 
-
-
-[![trophy]([https://github-profile-trophy.vercel.app/?username=ToastedBaguette&theme=nord](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie))](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ToastedBaguette&theme=oldie])](https://github.com/ryo-ma/github-profile-trophy)
