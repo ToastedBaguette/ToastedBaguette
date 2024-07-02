@@ -29,8 +29,10 @@ An independent Software Engineer who is passionate in Front End Web and Mobile D
 ### My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToastedBaguette&theme=ocean-gradient)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toastedbaguette&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=toastedbaguette&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toastedbaguette&theme=react-dark)
 
