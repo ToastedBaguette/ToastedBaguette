@@ -1,4 +1,4 @@
-Hi 👋 My name is Rony Hartono Irawan
+Hi 👋, I'm Rony Hartono Irawan
 ====================================
 
 Frontend Engineer | Mobile Developer
