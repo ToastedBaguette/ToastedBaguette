@@ -28,7 +28,7 @@ An independent Software Engineer who is passionate in Front End Web and Mobile D
 
 ### My GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ToastedBaguette&theme=black-ice&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ToastedBaguette&theme=nord&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 
 ### My GitHub Trophies
 
