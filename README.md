@@ -1,7 +1,7 @@
 Hi 👋, I'm Rony Hartono Irawan
 ====================================
 
-Frontend Engineer | Mobile Developer
+UI/UX Designer | Frontend Engineer | Mobile Developer
 --------------------------------
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=toastedbaguette.ToastedBaguette&icon=5)
