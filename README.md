@@ -1,36 +1,51 @@
-Hi 👋, I'm Rony Hartono Irawan
-====================================
+# Hi 👋, I'm Rony Hartono Irawan 🥖
 
-Frontend Engineer | UI/UX Designer | Mobile Developer
---------------------------------
+**Software Engineer · Web Applications & UI/UX · Exploring Forward Deployed Engineering**
 
-![](https://visitor-badge.laobi.icu/badge?page_id=toastedbaguette.ToastedBaguette&icon=5)
-[![Github](https://img.shields.io/github/followers/ToastedBaguette?label=Follow&style=social)](https://github.com/ToastedBaguette)
-
-An independent Software Engineer who is passionate in Front End Web and Mobile Development
-
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [ronyhartonoirawan@gmail.com](mailto:ronyhartonoirawan@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Website/Mobile App Projects
-* ⚡  I also like to talk about life-skills & financial investment
-
-### Skills
-
-<p align="left">
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<p>
+  <a href="mailto:ronyhartonoirawan@gmail.com"><img src="https://img.shields.io/badge/Email-ronyhartonoirawan@gmail.com-f5c542?style=flat-square&logo=gmail&logoColor=f5c542&labelColor=2d2418" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rony-hartono-irawan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-rony--hartono--irawan-f5c542?style=flat-square&logo=linkedin&logoColor=f5c542&labelColor=2d2418" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Freelance-Available-f5c542?style=flat-square&labelColor=2d2418" alt="Freelance Available">
 </p>
 
-### Socials
+- 🔭 Currently building web applications professionally — and always open for **freelance** projects
+- 🧭 Exploring **Forward Deployed Engineering**: shipping AI-powered solutions directly into real user workflows
+- 🎨 UI/UX sensibility in everything I build — Figma, Photoshop & Premiere Pro are daily tools
+- 🤝 Open to collaborating on web / mobile app projects
+- 💬 I also enjoy talking about life-skills & financial investment
+- 🌏 Based in Indonesia
 
-<p align="left"> <a href="https://www.github.com/ToastedBaguette" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rony-hartono-irawan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+### 🛠️ Tech Stack
+
+**Web App Core**
+
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,git" alt="React, Next.js, TypeScript, TailwindCSS, Bootstrap, Git"></a>
+
+**Mobile & Backend**
+
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin,flutter,laravel,mysql,docker" alt="Kotlin, Flutter, Laravel, MySQL, Docker"></a>
+
+**Design**
+
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma,ps,pr" alt="Figma, Photoshop, Premiere Pro"></a>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToastedBaguette&theme=gruvbox" height="195" alt="GitHub stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToastedBaguette&theme=gruvbox" height="195" alt="Most commit language">
+  </a>
+  <a href="https://streak-stats.demolab.com">
+    <img src="https://streak-stats.demolab.com?user=ToastedBaguette&hide_border=true&background=2d2418&border=2d2418&ring=e8973a&fire=e8973a&currStreakRing=f5c542&currStreakLabel=f5c542&currStreakNum=f5c542&sideLabels=e6dcc5&sideNums=e6dcc5&dates=e6dcc5" height="195" alt="GitHub streak">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToastedBaguette&theme=gruvbox&count_private=true" height="195" alt="Productive time">
+  </a>
+</div>
+
+---
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ToastedBaguette.ToastedBaguette&icon=5" alt="Profile views">
 </p>
-
-### My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToastedBaguette&theme=ocean-gradient)](https://git.io/streak-stats)
-
-### My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=toastedbaguette&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
-
