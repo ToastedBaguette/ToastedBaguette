@@ -3,9 +3,9 @@
 **Software Engineer · Web Applications & UI/UX · Exploring Forward Deployed Engineering**
 
 <p>
-  <a href="mailto:ronyhartonoirawan@gmail.com"><img src="https://img.shields.io/badge/Email-ronyhartonoirawan@gmail.com-f5c542?style=flat-square&logo=gmail&logoColor=f5c542&labelColor=2d2418" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rony-hartono-irawan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-rony--hartono--irawan-f5c542?style=flat-square&logo=linkedin&logoColor=f5c542&labelColor=2d2418" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Freelance-Available-f5c542?style=flat-square&labelColor=2d2418" alt="Freelance Available">
+  <a href="mailto:ronyhartonoirawan@gmail.com"><img src="https://img.shields.io/badge/Email-ronyhartonoirawan@gmail.com-8b5cf6?style=flat-square&logo=gmail&logoColor=8b5cf6&labelColor=2d2418" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rony-hartono-irawan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-rony--hartono--irawan-8b5cf6?style=flat-square&logo=linkedin&logoColor=8b5cf6&labelColor=2d2418" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Freelance-Available-8b5cf6?style=flat-square&labelColor=2d2418" alt="Freelance Available">
 </p>
 
 - 🔭 Currently building web applications professionally — and always open for **freelance** projects
