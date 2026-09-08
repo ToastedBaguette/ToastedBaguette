@@ -29,7 +29,7 @@
 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma,ps,pr" alt="Figma, Photoshop, Premiere Pro"></a>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
