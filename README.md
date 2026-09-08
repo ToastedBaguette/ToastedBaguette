@@ -44,6 +44,12 @@
   </a>
 </div>
 
+### 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+- No recent public activity
+<!--END_SECTION:activity-->
+
 ---
 
 <p>
