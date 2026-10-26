@@ -22,7 +22,7 @@ I build software and take it all the way to the people who use it: from the code
 
 I'm especially interested in **forward deployed engineering**: building AI products and putting them directly into real customer workflows.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core**
 
@@ -42,7 +42,7 @@ I'm especially interested in **forward deployed engineering**: building AI produ
 
 *All three run on Google Cloud Compute Engine.*
 
-### 🕒 Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 - Pushed to `ToastedBaguette/calorie-tracker-bot`
