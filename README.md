@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rony Hartono Irawan 🥖
+# Hi 👋, I'm Rony Hartono Irawan
 
 **Software Engineer · Client-facing delivery for B2B healthcare AI · Forward Deployed Engineering**
 
