@@ -1,11 +1,11 @@
 # Hi 👋, I'm Rony Hartono Irawan 🥖
 
-**Software Engineer · Client-facing delivery for B2B healthcare AI · Moving into Forward Deployed Engineering**
+**Software Engineer · Client-facing delivery for B2B healthcare AI · Forward Deployed Engineering**
 
 <p>
   <a href="mailto:ronyhartonoirawan@gmail.com"><img src="https://img.shields.io/badge/Email-ronyhartonoirawan@gmail.com-8b5cf6?style=flat-square&logo=gmail&logoColor=8b5cf6&labelColor=2d2418" alt="Email"></a>
   <a href="https://www.linkedin.com/in/rony-hartono-irawan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-rony--hartono--irawan-8b5cf6?style=flat-square&logo=linkedin&logoColor=8b5cf6&labelColor=2d2418" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Open_to-Forward_Deployed_Engineer_roles-8b5cf6?style=flat-square&labelColor=2d2418" alt="Open to Forward Deployed Engineer roles">
+  <img src="https://img.shields.io/badge/Based_in-Indonesia-8b5cf6?style=flat-square&labelColor=2d2418" alt="Based in Indonesia">
 </p>
 
 I build software and take it all the way to the people who use it: from the codebase to the client's floor.
@@ -18,9 +18,9 @@ I build software and take it all the way to the people who use it: from the code
 - Turning on-site workflow problems into product requirements. Example: casemix staff's initial check of an inpatient claim dropped **from ~15 to ~2 minutes** after we surfaced missing verification items in the UI and automated checks against national clinical guidelines (PNPK)
 - Shipping with **AI agents** (Claude Code, MCP) as part of a small team
 
-### 🎯 Looking for
+### 🧭 What drives me
 
-**Forward Deployed Engineer** roles, remote or overseas, where engineering and direct customer impact go together. 🌏 Based in Indonesia.
+I'm especially interested in **forward deployed engineering**: building AI products and putting them directly into real customer workflows.
 
 ### 🛠️ Tech Stack
 
