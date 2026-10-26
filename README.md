@@ -10,7 +10,7 @@
 
 I build software and take it all the way to the people who use it: from the codebase to the client's floor.
 
-### 🏥 What I'm working on
+### What I'm working on
 
 - Building **ClaimMind**, an AI-powered claims verification platform live at **22 hospitals in Indonesia**, processing **~66,000 claims a month**
   *(multi-tenant SaaS · Next.js · TypeScript · Keycloak · PostgreSQL)*
@@ -18,7 +18,7 @@ I build software and take it all the way to the people who use it: from the code
 - Turning on-site workflow problems into product requirements. Example: casemix staff's initial check of an inpatient claim dropped **from ~15 to ~2 minutes** after we surfaced missing verification items in the UI and automated checks against national clinical guidelines (PNPK)
 - Shipping with **AI agents** (Claude Code, MCP) as part of a small team
 
-### 🧭 What drives me
+### What drives me
 
 I'm especially interested in **forward deployed engineering**: building AI products and putting them directly into real customer workflows.
 
@@ -32,7 +32,7 @@ I'm especially interested in **forward deployed engineering**: building AI produ
 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker,gcp,git,kotlin,figma" alt="Docker, Google Cloud, Git, Kotlin, Figma"></a>
 
-### 🤖 Side projects
+### Side projects
 
 | Project | What it does |
 |---|---|
