@@ -12,9 +12,9 @@ I build software and take it all the way to the people who use it: from the code
 
 ### What I'm working on
 
-- Building **ClaimMind**, an AI-powered claims verification platform live at **22 hospitals in Indonesia**, processing **~66,000 claims a month**
+- Building **ClaimMind**, an AI-powered claims verification platform live at **hospitals across Indonesia**, processing **~66,000 claims a month**
   *(multi-tenant SaaS · Next.js · TypeScript · Keycloak · PostgreSQL)*
-- Led **kickoff, training, go-live, and weekly post-launch meetings** for ~10 hospitals end to end; now the technical escalation point for client meetings as onboarding scales
+- Led **kickoff, training, go-live, and weekly post-launch meetings** for our first hospital clients end to end; now the technical escalation point for client meetings as onboarding scales
 - Turning on-site workflow problems into product requirements. Example: casemix staff's initial check of an inpatient claim dropped **from ~15 to ~2 minutes** after we surfaced missing verification items in the UI and automated checks against national clinical guidelines (PNPK)
 - Shipping with **AI agents** (Claude Code, MCP) as part of a small team
 
