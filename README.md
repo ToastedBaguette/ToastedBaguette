@@ -45,13 +45,13 @@ I'm especially interested in **forward deployed engineering**: building AI produ
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- Starred `morluto/rea`
 - Pushed to `ToastedBaguette/ToastedBaguette`
 - Pushed to `ToastedBaguette/claimmind-case-study`
 - Created branch in `ToastedBaguette/claimmind-case-study`
 - Pushed to `ToastedBaguette/ToastedBaguette`
-- Pushed to `ToastedBaguette/ToastedBaguette`
 
-_Last synced: 2026-11-07 02:07 UTC_
+_Last synced: 2026-11-08 01:39 UTC_
 <!--END_SECTION:activity-->
 
 ---
