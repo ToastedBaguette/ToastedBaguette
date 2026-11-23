@@ -51,7 +51,7 @@ I'm especially interested in **forward deployed engineering**: building AI produ
 - Starred `morluto/rea`
 - Pushed to `ToastedBaguette/ToastedBaguette`
 
-_Last synced: 2026-11-22 02:27 UTC_
+_Last synced: 2026-11-23 02:56 UTC_
 <!--END_SECTION:activity-->
 
 ---
